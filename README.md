@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxoncheeg
-- 👀 I’m interested in music and programming
-- 🌱 I’m currently learning C++(in-depth) and C#(basic)
+- 👀 I’m interested in programming
+- 🌱 Currently I know C#, C++, C, (HTML+ CSS + JS), PHP, Java.
 - 📫 How to reach me: https://www.instagram.com/maxoncheeg , https://t.me/maxoncheeg
 
 <!---
