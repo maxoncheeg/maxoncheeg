@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxoncheeg
-- 👀 I’m interested in programming
-- 🌱 Currently I know C#, C++, C, (HTML+ CSS + JS), PHP, Java.
+- 🐸 I’m real american toad who loves some code;
+- 👽 Currently I know C#, C++, C, (HTML+ CSS + JS), PHP, Java.
 - 📫 How to reach me: https://www.instagram.com/maxoncheeg , https://t.me/maxoncheeg
 
 <!---
