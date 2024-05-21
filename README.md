@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxoncheeg
 - 🐸 I’m real american toad who loves some code;
-- 👽 Currently I know C#, C++, C, (HTML+ CSS + JS), PHP, Java.
-- 📫 How to reach me: https://www.instagram.com/maxoncheeg , https://t.me/maxoncheeg
+- 👽 Currently I know C#, C++, C. OOP C# is my favorite thing
+- 📫 How to reach me: https://t.me/maxoncheeg
 
 <!---
 maxoncheeg/maxoncheeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
