@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maxoncheeg
 - 🐸 I’m real american toad who loves some code;
-- 👽 Currently I know C#, C++, C. OOP C# is my favorite thing
 - 📫 How to reach me: https://t.me/maxoncheeg
 
 <!---
