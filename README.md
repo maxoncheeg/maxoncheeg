@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @maxoncheeg
-- 🐸 I’m real american toad who loves some code;
 - 📫 How to reach me: https://t.me/maxoncheeg
 
 <!---
